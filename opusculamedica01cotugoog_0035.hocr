@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculamedica01cotugoog_0035.png"; bbox 0 0 2790 4872; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 660 1680 1259 1814">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 660 1680 1259 1814">
+     <span class='ocr_line' id='line_1_1' title="bbox 660 1680 1259 1814; baseline -0.015 -27"><span class='ocrx_word' id='word_1_1' title='bbox 660 1715 926 1814; x_wconf 56' lang='lat' dir='ltr'><strong><em>Juvaijntegms</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 945 1713 1094 1784; x_wconf 77' lang='lat' dir='ltr'><strong><em>accedere</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1102 1697 1216 1808; x_wconf 57' lang='lat' dir='ltr'><em>sonui</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1253 1680 1259 1692; x_wconf 23' lang='grc' dir='ltr'><strong>Ἰ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 428 1871 1272 1998">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 428 1871 1272 1998">
+     <span class='ocr_line' id='line_1_2' title="bbox 428 1871 1272 1998; baseline -0.005 -48"><span class='ocrx_word' id='word_1_5' title='bbox 428 1871 533 1974; x_wconf 66' lang='lat' dir='ltr'><strong><em>:atqui</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 555 1879 858 1978; x_wconf 70' lang='lat' dir='ltr'><strong><em>haurir03juvatque</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 880 1905 978 1952; x_wconf 77' lang='lat' dir='ltr'><em>novos</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 991 1879 1272 1998; x_wconf 58' lang='lat' dir='ltr'><strong><em>decffpmflores.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 738 2061 1275 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 738 2061 1275 2224">
+     <span class='ocr_line' id='line_1_3' title="bbox 738 2061 1275 2224; baseline -0.017 -12"><span class='ocrx_word' id='word_1_9' title='bbox 738 2137 784 2212; x_wconf 80' lang='grc' dir='ltr'><strong><em>Τ.</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 808 2132 991 2212; x_wconf 68' lang='lat' dir='ltr'><strong><em>Lunam·</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1012 2133 1137 2224; x_wconf 74' lang='lat' dir='ltr'><strong>Cum,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1159 2061 1217 2208; x_wconf 45' lang='lat' dir='ltr'><strong>li‘b.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1239 2135 1275 2222; x_wconf 74' lang='grc'><strong><em>4.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1400 4872">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1400 4872">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1400 4872; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1400 4872; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
